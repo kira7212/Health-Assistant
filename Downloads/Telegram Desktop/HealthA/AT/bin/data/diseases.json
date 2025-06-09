@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Flu",
+    "symptoms": ["fever", "sore_throat", "cough", "runny_nose", "muscle_pain"],
+    "specialist": "General Practitioner"
+  },
+  {
+    "name": "Migraine",
+    "symptoms": ["headache", "nausea", "sensitivity_to_light", "vomiting", "eye_pain"],
+    "specialist": "Neurologist"
+  },
+  {
+    "name": "COVID-19",
+    "symptoms": ["fever", "cough", "loss_of_taste", "fatigue", "shortness_of_breath", "sore_throat"],
+    "specialist": "Infectious Disease Specialist"
+  },
+  {
+    "name": "Pneumonia",
+    "symptoms": ["fever", "shortness_of_breath", "chest_pain", "cough"],
+    "specialist": "Pulmonologist"
+  },
+  {
+    "name": "Malaria",
+    "symptoms": ["fever", "chills", "headache", "sweats", "muscle_aches", "fatigue", "nausea", "vomiting", "diarrhea", "abdominal_pain", "cough", "rapid_breathing", "rapid_heart_rate", "confusion", "seizures"],
+    "specialist": "Infectious Disease Specialist"
+  },
+  {
+    "name": "Tuberculosis",
+    "symptoms": ["persistent_cough", "coughing_up_blood", "night_sweats", "weight_loss", "fever", "chills", "fatigue", "loss_of_appetite", "chest_pain", "shortness_of_breath"],
+    "specialist": "Pulmonologist"
+  },
+  {
+    "name": "Common Cold",
+    "symptoms": ["sore_throat", "runny_nose", "stuffy_nose", "sneezing", "cough", "hoarse_voice", "low_grade_fever", "headache", "mild_fatigue", "chills", "achy_muscles", "watery_eyes", "thick_discharge"],
+    "specialist": "General Practitioner"
+  },
+  {
+    "name": "Allergy",
+    "symptoms": ["sneezing", "runny_or_stuffy_nose", "itchy_eyes_nose_throat", "watery_eyes", "cough", "wheezing", "skin_rash_or_hives", "facial_swelling", "difficulty_breathing", "vomiting", "diarrhea", "low_blood_pressure"],
+    "specialist": "Allergist/Immunologist"
+  },
+  {
+    "name": "Heart Attack",
+    "symptoms": ["chest_pain", "shortness_of_breath", "nausea", "sweating", "dizziness", "pain_in_left_arm", "jaw_pain", "fatigue", "cold_sweats"],
+    "specialist": "Cardiologist"
+  },
+  {
+    "name": "Vertigo",
+    "symptoms": ["spinning_sensation", "loss_of_balance", "dizziness", "nausea", "vomiting", "sweating", "abnormal_eye_movements", "headache", "ear_ringing"],
+    "specialist": "Neurologist"
+  },
+  {
+    "name": "Stroke",
+    "symptoms": ["numbness", "weakness_on_one_side", "confusion", "trouble_speaking", "blurred_vision", "dizziness", "severe_headache", "loss_of_balance", "difficulty_walking"],
+    "specialist": "Neurologist"
+  },
+  {
+    "name": "Type 2 Diabetes",
+    "symptoms": ["increased_thirst", "frequent_urination", "increased_hunger", "unexplained_weight_loss", "fatigue", "blurred_vision", "slow_healing_sores", "frequent_infections", "numbness_or_tingling", "dry_skin", "darkened_skin_patches"],
+    "specialist": "Endocrinologist"
+  },
+  {
+    "name": "Food Poisoning",
+    "symptoms": ["nausea", "vomiting", "diarrhea"],
+    "specialist": "Gastroenterologist"
+  },
+  {
+    "name": "Cholera",
+    "symptoms": ["watery_diarrhea", "vomiting", "extreme_thirst", "dehydration", "dry_mouth", "sunken_eyes", "low_urine_output", "fatigue", "irritability", "muscle_cramps", "dizziness", "rapid_heart_rate", "low_blood_pressure"],
+    "specialist": "Infectious Disease Specialist"
+  },
+  {
+    "name": "Irritable Bowel Syndrome",
+    "symptoms": ["diarrhea", "constipation", "abdominal_pain", "bloating", "gas", "cramping", "mucus_in_stool"],
+    "specialist": "Gastroenterologist"
+  },
+  {
+    "name": "Kidney Infection",
+    "symptoms": ["back_pain", "painful_urination", "fever", "chills", "frequent_urination", "cloudy_urine", "blood_in_urine", "nausea", "vomiting", "abdominal_pain"],
+    "specialist": "Nephrologist"
+  },
+  {
+    "name": "Chickenpox",
+    "symptoms": ["skin_rash", "itching", "fever", "fatigue", "loss_of_appetite", "headache", "malaise", "blistering_spots"],
+    "specialist": "Dermatologist"
+  },
+  {
+    "name": "Scabies",
+    "symptoms": ["itching", "skin_rash", "burrow_tracks", "sores_from_scratching", "inflammation", "red_bumps", "worse_itching_at_night"],
+    "specialist": "Dermatologist"
+  },
+  {
+    "name": "Eczema",
+    "symptoms": ["itching", "skin_rash", "dry_skin", "cracked_skin", "red_or_inflamed_skin", "oozing_or_crusting", "thickened_skin", "discoloration"],
+    "specialist": "Dermatologist"
+  },
+  {
+    "name": "Hepatitis",
+    "symptoms": ["yellow_skin", "fatigue", "abdominal_pain", "loss_of_appetite", "dark_urine", "nausea", "vomiting", "fever", "joint_pain", "pale_stool"],
+    "specialist": "Hepatologist"
+  },
+  {
+    "name": "Liver Disease",
+    "symptoms": ["jaundice", "itchy_skin", "dark_urine", "pale_stools", "fatigue", "loss_of_appetite", "nausea", "vomiting", "abdominal_pain", "abdominal_swelling", "leg_and_ankle_swelling", "easy_bruising", "confusion", "ascites", "portal_hypertension"],
+    "specialist": "Hepatologist"
+  },
+  {
+    "name": "Urinary Tract Infection",
+    "symptoms": ["burning_urination", "frequent_urination", "urge_to_urinate", "cloudy_urine", "foul-smelling_urine", "blood_in_urine", "pelvic_pain", "lower_back_or_side_pain", "fever", "chills", "fatigue", "nausea", "vomiting"],
+    "specialist": "Urologist"
+  },
+  {
+    "name": "Kidney Stone",
+    "symptoms": ["severe_back_or_side_pain", "pain_radiating_to_groin", "blood_in_urine", "cloudy_or_foul_smelling_urine", "frequent_urination", "pain_while_urinating", "nausea", "vomiting", "fever", "chills", "urinary_hesitation"],
+    "specialist": "Urologist"
+  },
+  {
+    "name": "Bladder Infection",
+    "symptoms": ["blood_in_urine", "frequent_urination", "painful_urination", "lower_abdominal_pain", "cloudy_urine", "foul-smelling_urine", "fever", "fatigue"],
+    "specialist": "Urologist"
+  },
+  {
+    "name": "Kidney Disease",
+    "symptoms": ["blood_in_urine", "swelling_in_legs_or_ankles", "fatigue", "shortness_of_breath", "nausea", "vomiting", "loss_of_appetite", "frequent_urination", "itching", "sleep_problems"],
+    "specialist": "Nephrologist"
+  },
+  {
+    "name": "Eye Infection",
+    "symptoms": ["eye_pain", "redness", "itching", "swelling", "watery_eyes", "discharge", "blurred_vision", "sensitivity_to_light"],
+    "specialist": "Ophthalmologist"
+  },
+  {
+    "name": "Measles",
+    "symptoms": ["skin_rash", "fever", "cough", "runny_nose", "red_eyes", "koplik_spots", "sore_throat", "fatigue", "body_aches"],
+    "specialist": "Infectious Disease Specialist"
+  }
+]

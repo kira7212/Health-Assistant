@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Dr. Mesfin Abebe",
+    "specialist": "General Practitioner",
+    "hospital": "Addis General Hospital"
+  },
+  {
+    "name": "Dr. Selamawit Gebru",
+    "specialist": "Pulmonologist",
+    "hospital": "Addis General Hospital"
+  },
+  {
+    "name": "Dr. Robel Haile",
+    "specialist": "Dermatologist",
+    "hospital": "Addis General Hospital"
+  },
+  {
+    "name": "Dr. Meron Demissie",
+    "specialist": "Ophthalmologist",
+    "hospital": "Addis General Hospital"
+  },
+  {
+    "name": "Dr. Hana Tsegaye",
+    "specialist": "Neurologist",
+    "hospital": "Unity Medical Center"
+  },
+  {
+    "name": "Dr. kebede abebe",
+    "specialist": "Neurologist",
+    "hospital": "Unity Medical Center"
+  },
+  {
+    "name": "Dr. Saba Mengistu",
+    "specialist": "Cardiologist",
+    "hospital": "Unity Medical Center"
+  },
+  {
+    "name": "Dr. Yodit Assefa",
+    "specialist": "Hepatologist",
+    "hospital": "Unity Medical Center"
+  },
+  {
+    "name": "Dr. Dawit Bekele",
+    "specialist": "Infectious Disease Specialist",
+    "hospital": "St. Paul Hospital"
+  },
+  {
+    "name": "Dr. Binyam Alemu",
+    "specialist": "Allergist/Immunologist",
+    "hospital": "St. Paul Hospital"
+  },
+  {
+    "name": "Dr. Nahom Mulugeta",
+    "specialist": "Urologist",
+    "hospital": "St. Paul Hospital"
+  },
+  {
+    "name": "Dr. Getachew Fikru",
+    "specialist": "Endocrinologist",
+    "hospital": "Tikur Anbessa Hospital"
+  },
+  {
+    "name": "Dr. Kalkidan Tesfaye",
+    "specialist": "Gastroenterologist",
+    "hospital": "Tikur Anbessa Hospital"
+  },
+  {
+    "name": "Dr. Fikirte Dagnachew",
+    "specialist": "Nephrologist",
+    "hospital": "Tikur Anbessa Hospital"
+  }
+]
